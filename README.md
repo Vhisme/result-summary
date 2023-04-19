@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ivargasm/result-summary](https://github.com/ivargasm/result-summary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ivargasm.github.io/result-summary/](https://ivargasm.github.io/result-summary/)
 
 ## My process
 
